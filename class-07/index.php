@@ -1,5 +1,7 @@
 <?php
 
-echo "hello";
+$name = 'neaz';
+echo "<h1>$name</h1>";
+
 
 ?>
