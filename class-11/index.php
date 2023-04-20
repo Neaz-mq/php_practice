@@ -1,5 +1,4 @@
 <?php
-$amount = 71;
-printf ("New day %c", $amount);
-
+$name = "neaz morshed";
+printf("[%-'@6.3s]", $name);
 ?>
